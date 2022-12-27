@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omar Khaled</h1>
-<h3 align="center">Back-End Developer | Cyber Security Enthusiast</h3>
+<h3 align="center">Back-End Developer | SOC Analyst </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarkhaled747474" alt="omarkhaled747474" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 I’m currently learning **Django FrameWork**
 
 - 👨‍💻 All of my projects are available on my Website [https://omarkhaledfathy.netlify.app/](https://omarkhaledfathy.netlify.app/)
-
-- 💬 Ask me about **APIs and Web Dev**
 
 - 📫 How to reach me **raomar74@gmail.com**
 
