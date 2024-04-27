@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarkhaled747474" alt="omarkhaled747474" /></a> </p>
 
-- 🌱 I’m currently learning **Django FrameWork**
-
 - 👨‍💻 All of my projects are available on my Website [https://omarkhaledfathy.netlify.app/](https://omarkhaledfathy.netlify.app/)
 
 - 📫 How to reach me **raomar74@gmail.com**
